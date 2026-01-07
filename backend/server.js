@@ -6,16 +6,18 @@
 const express = require('express');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
+const cors = require('cors');
 
 const app = express();
 app.use(express.json());
+app.use(cors());
 
 // ====================================================
 // CONFIGURATION
 // ====================================================
 
 const JWT_SECRET = process.env.JWT_SECRET || 'loopify-secret-key-change-in-production';
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 // ====================================================
 // IN-MEMORY DATA STORES (Replace with DB in production)
