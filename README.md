@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D16.0.0-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/Express-4.18-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Status-MVP%20Ready-success?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs">
 </p>
@@ -229,13 +228,9 @@ A **Loop** is a system of connected tasks that repeat consistently:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### 🎬 Live Demo
-
-[**Click here to try the live demo** →](https://loopify-demo.netlify.app)
-
 *Demo credentials:*
-- Email: `demo@loopify.com`
-- Password: `demo123`
+- Email: `abc@gmail.com`
+- Password: `123456`
 
 </div>
 
@@ -314,14 +309,8 @@ loopify/
 │   │   └── 📄 index.css          # Global styles
 │   ├── 📄 package.json           # React dependencies
 │   └── 📄 .gitignore
-│
-├── 📂 docs/
-│   ├── 📄 API.md                 # API documentation
-│   ├── 📄 SETUP.md               # Setup guide
-│   └── 📄 CONTRIBUTING.md        # Contribution guidelines
-│
 ├── 📄 README.md                  # You are here
-└── 📄 LICENSE                    # MIT License
+
 ```
 
 ---
@@ -735,48 +724,6 @@ Loopify uses **context-aware, logic-based messages** instead of random motivatio
 ```
 
 ---
-
-## 🛣️ Roadmap
-
-### ✅ Phase 1: MVP (Complete)
-- [x] User authentication
-- [x] Loop CRUD operations
-- [x] Task management
-- [x] Streak tracking
-- [x] Dashboard view
-- [x] Dark theme UI
-- [x] Web frontend
-
-### 🚧 Phase 2: Enhancement (In Progress)
-- [ ] Database integration (PostgreSQL)
-- [ ] User profiles
-- [ ] Loop templates
-- [ ] Export/import data
-- [ ] PWA support
-- [ ] Mobile responsiveness improvements
-
-### 🔮 Phase 3: Advanced (Planned)
-- [ ] Weekly view calendar
-- [ ] Minimal statistics
-- [ ] Custom reminder times
-- [ ] Multi-device sync
-- [ ] Offline mode
-- [ ] Dark/light theme toggle
-
-### ❌ Not Planned
-
-We intentionally **will not** implement:
-- ❌ AI coaching or chat features
-- ❌ Social feeds or sharing
-- ❌ Gamification gimmicks
-- ❌ Push notification spam
-- ❌ Complex analytics dashboards
-- ❌ Paid tier or ads
-
-**Why?** These features distract from the core purpose: building discipline through simple, repeatable systems.
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -829,24 +776,6 @@ git push origin feature/my-feature
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 Loopify
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
-
 ## 🙏 Acknowledgments
 
 ### Inspiration
@@ -873,41 +802,6 @@ copies of the Software...
 - Coffee ☕
 - Late nights and early mornings
 - Everyone who believes systems > feelings
-
----
-
-## 📞 Support & Contact
-
-<div align="center">
-
-### Need Help?
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/bug.png" width="50"/><br>
-<b>Bug Reports</b><br>
-<a href="https://github.com/yourusername/loopify/issues">GitHub Issues</a>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/comments.png" width="50"/><br>
-<b>Discussions</b><br>
-<a href="https://github.com/yourusername/loopify/discussions">GitHub Discussions</a>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="50"/><br>
-<b>Email</b><br>
-<a href="mailto:support@loopify.app">support@loopify.app</a>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="50"/><br>
-<b>Twitter</b><br>
-<a href="https://twitter.com/loopifyapp">@loopifyapp</a>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
